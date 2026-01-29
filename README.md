@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 if you want to Support me :
 Buy me a : ko-fi.com/mrnngstr666
 Subscribe my Youtube Chanel :@linux.superuser 
-Subscribe my TikTok :@linux.superuser
+Follow my TikTok Profile :@linux.superuser
 
