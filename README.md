@@ -1,25 +1,20 @@
 ## Welcome To My Pages
 
-<!--
-**linux-superuser666/linux-superuser666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://cdn.jsdelivr.net/gh/linux-superuser666/cdn@main/1aAsset%20450.png" />
+<!-- [![Download](https://cdn.jsdelivr.net/gh/linux-superuser666/cdn@main/1aAsset%20450.png)](https://example.com) -->
+<p align="center">
+  <a href="https://link1.com">
+    <img src="assets/button1.png" width="160" />
+  </a>
+  <a href="https://link2.com">
+    <img src="assets/button2.png" width="160" />
+  </a>
+  <a href="https://link3.com">
+    <img src="assets/button3.png" width="160" />
+  </a>
+</p>
 
 #support
 !if you want to Support me :
 !Buy me a : ko-fi.com/mrnngstr666
-!Subscribe my Youtube Chanel :@linux.superuser 
+!Subscribe my Youtube Chanel :@linux.superuser
 !Follow my TikTok Profile :@linux.superuser
-
