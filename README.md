@@ -1,4 +1,8 @@
 <p align="center">
+ <img src="img/hello.svg" width="250" />
+</p>
+
+<p align="center">
  <img src="img/ws.svg" width="60" />
 </p>
 
@@ -9,7 +13,6 @@
  <img src="img/hyprland-logo.svg" width="100" />
  <img src="img/vscode-logo.svg" width="80" />
  <img src="img/quickshell-logo.svg" width="100" />
- 
 </p>
 <p align="center">
  <img src="img/skill.svg" width="60" />
