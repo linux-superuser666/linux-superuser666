@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://cdn.jsdelivr.net/gh/linux-superuser666/cdn/blob/main/1aAsset%20450.png" />
+
 #support
 if you want to Support me :
 Buy me a : ko-fi.com/mrnngstr666
