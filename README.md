@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 #support
-if you wana Support me :
-ko-fi.com/mrnngstr666
+if you want to Support me :
+Buy me a : ko-fi.com/mrnngstr666
+Subscribe my Youtube Chanel :@linux.superuser 
+Subscribe my TikTok :@linux.superuser
 
-I still work on other Themes, Keep Chech My Youtube:@linux.superuser or My TikTok:@linux.superuser for more Update ;)
