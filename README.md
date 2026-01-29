@@ -59,8 +59,3 @@
    <img src="img/kofi-logo.svg" width="80" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linux-superuser666&show_icons=true&theme=dark" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linux-superuser666&layout=compact&theme=dark" width="350">
-</p>
