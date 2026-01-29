@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/linux-superuser666/cdn@main/1aAsset%20450.png" />
 
 #support
-if you want to Support me :
-Buy me a : ko-fi.com/mrnngstr666
-Subscribe my Youtube Chanel :@linux.superuser 
-Follow my TikTok Profile :@linux.superuser
+!if you want to Support me :
+!Buy me a : ko-fi.com/mrnngstr666
+!Subscribe my Youtube Chanel :@linux.superuser 
+!Follow my TikTok Profile :@linux.superuser
 
