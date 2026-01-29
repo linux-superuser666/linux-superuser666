@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#support
+if you wana Support me :
+ko-fi.com/mrnngstr666
+
+I still work on other Themes, Keep Chech My Youtube:@linux.superuser or My TikTok:@linux.superuser for more Update ;)
