@@ -14,8 +14,17 @@
  <img src="img/vscode-logo.svg" width="80" />
  <img src="img/quickshell-logo.svg" width="100" />
 </p>
+
 <p align="center">
- <img src="img/skill.svg" width="60" />
+ <img src="img/uiux.svg" width="160" />
+</p>
+
+<p align="center">
+ <img src="img/cyberpunk2077.svg" width="100" />
+</p>
+
+<p align="center">
+ <img src="img/skill.svg" width="27" />
 </p>
 
 <p align="center">
@@ -49,4 +58,9 @@
   <a href="https://Ko-fi.com/mrnngstr666">
    <img src="img/kofi-logo.svg" width="80" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linux-superuser666&show_icons=true&theme=dark" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linux-superuser666&layout=compact&theme=dark" width="350">
 </p>
