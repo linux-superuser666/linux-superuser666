@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
- <img src="img/html5-logo.svg" width="80" />
+ <img src="https://cdn.jsdelivr.net/gh/linux-superuser666/linux-speruser666@main/img/html5-logo.svg" width="80" />
  <img src="img/css3-logo.svg" width="80" />
  <img src="img/js-logo.svg" width="110" />
  <img src="img/tailwindcss-logo.svg" width="110" />
